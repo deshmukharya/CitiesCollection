@@ -9,12 +9,16 @@ The Cities Collection View project showcases a collection view displaying images
 <img width="321" alt="Screenshot 2024-07-01 at 9 56 34 PM" src="https://github.com/deshmukharya/CitiesCollection/assets/159518509/4c282537-3db7-453d-bf6c-8352149f4c4c">
 <img width="902" alt="City" src="https://github.com/deshmukharya/CitiesCollection/assets/159518509/230f6870-6067-4be0-85ef-0bbd4fe17cf5">
 
+
 **Usage**
+
 Launch the app to see the collection of cities.
 Tap on any city to view its details.
 Use the back button or swipe gesture to return to the main screen.
 
+
 **Components**
+
 CityCollectionViewController: Manages the collection view of cities.
 CityCollectionViewCell: Displays each city's image and name in the collection view.
 CityDetailViewController: Shows detailed information about a selected city.
